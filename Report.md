@@ -1,3 +1,5 @@
+**http://16.171.24.173:8000/docs**
+EC2 URl
 1. Aim
 
 To develop and deploy a RESTful CRUD API using FastAPI and Amazon DynamoDB on an Amazon EC2 instance, using an EC2 IAM role for secure database access.
